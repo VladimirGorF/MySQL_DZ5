@@ -22,3 +22,17 @@
 -- участие пользователь с id = 1.
 
 <img width="2048" alt="Снимок экрана 2023-03-28 в 13 31 06" src="https://user-images.githubusercontent.com/110591063/228208982-68e0fe22-306c-42b2-8fdd-aa73fb3f2f8a.png">
+
+-- Получите список медиафайлов пользователя с количеством лайков(media m, likes l ,users u)
+<img width="2048" alt="Снимок экрана 2023-04-01 в 16 39 20" src="https://user-images.githubusercontent.com/110591063/229292569-ff099fb8-12a0-4677-be93-ccfa3a187408.png">
+
+
+
+-- Получите количество групп у пользователей
+<img width="2048" alt="Снимок экрана 2023-04-01 в 17 24 54" src="https://user-images.githubusercontent.com/110591063/229295042-74b7f222-b613-4f37-9e0b-274f1eb290af.png">
+
+
+
+-- Вывести 3 пользователей с наибольшим количеством лайков за медиафайлы
+<img width="2048" alt="Снимок экрана 2023-04-01 в 19 02 01" src="https://user-images.githubusercontent.com/110591063/229301520-d4ffcf26-b415-4e34-a9bd-74a077e79eee.png">
+
